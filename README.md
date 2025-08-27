@@ -1,6 +1,6 @@
 # Kaggle Flight Rank Recommender Systems Competition
 
-This repository contains an entry to the [FlightRank 2025: Aeroclub RecSys Cup](https://www.kaggle.com/competitions/aeroclub-recsys-2025) Kaggle competition, focused on predicting flight rankings. It's my first attempt at a Kaggle competition and was an overall very interesting and rewarding experience (even though I didn't put as much time as I wanted into it and I'm pretty dang far from the top).
+This repository contains an entry to the [FlightRank 2025: Aeroclub RecSys Cup](https://www.kaggle.com/competitions/aeroclub-recsys-2025) Kaggle competition, focused on predicting flight rankings. It's my first attempt at a Kaggle competition and was a great opportunity to experiment and learn some new stuff.
 
 Features
 
